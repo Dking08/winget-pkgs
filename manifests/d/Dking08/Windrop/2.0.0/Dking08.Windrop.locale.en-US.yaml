@@ -18,7 +18,7 @@ Tags:
 - file-drag
 ReleaseNotesUrl: https://github.com/Dking08/windrop/releases/tag/v2.0.0
 Documentations:
-- DocumentLabel: Wiki
-  DocumentUrl: https://github.com/Dking08/windrop/wiki
+- DocumentLabel: Architecture
+  DocumentUrl: https://github.com/Dking08/windrop/blob/v2.0.0/Architecture.md
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
